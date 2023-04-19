@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Macroeconomics for a Sustainable Planet - course summary"
-author: "Willem Klok"
-categories: summaries
+date: 2022-08-16
 tags: [macroeconomics,course]
 ---
 
