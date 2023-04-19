@@ -28,7 +28,7 @@ Consider the example of buying a car. Purchasing a regular combustion engine car
 
 Naturally, this impact is impossible to quantify, but should definitely considered in addition to the calculation presented below.
 
-### The *******direct******* impact of switching banks
+### The *direct* impact of switching banks
 
 When a bank invests in a company, the emissions of the investment correspond to the emissions of that company. For the data that we will use, three types of emissions are taken into account: 
 
@@ -65,9 +65,9 @@ This depends on what you consider to be most important. Some banks are pioneers 
 
 I hope this short article has given you a better understanding of the impact of switching banks, and hopefully it challenges you to think about making a change.
 
-Disclaimer: please note that the calculations and reasoning presented in the following text are oversimplifications of reality. They are intended to make the story more understandable for a general audience, and should not be taken as precise or comprehensive analyses of the topics discussed.
+DISCLAIMER: please note that the calculations and reasoning presented in the text are oversimplifications of reality. They are intended to make the story more understandable for a general audience, and should not be taken as precise or comprehensive analyses of the topics discussed.
 
-Personal note: The financial system is impossibly complex and often it’s hard to see what the effects of certain decisions will be. For a long time, I’ve struggled with the issue of switching banks. Because while I knew that it ****had**** an impact, how this impact (together with the little effort that is required) compared to other things (buying solar panels, becoming vegetarian) remained a mystery. While this calculation isn’t perfect, it at least helps me to put things into perspective for myself and others, and hopefully encourage positive change.
+PERSONAL NOTE: The financial system is impossibly complex and often it’s hard to see what the effects of certain decisions will be. For a long time, I’ve struggled with the issue of switching banks. Because while I knew that it *had* an impact, how this impact (together with the little effort that is required) compared to other things (buying solar panels, becoming vegetarian) remained a mystery. While this calculation isn’t perfect, it at least helps me to put things into perspective for myself and others, and hopefully encourage positive change.
 
 ## Footnotes
 [^1]: See “Dutch financial sector financed emissions” ([view official report](https://www.banktrack.org/download/dutch_financial_sector_financed_emissions/221021_profundo_financed_emissions_of_the_dutch_financial_sector.pdf#:~:text=Together%20the%20selected%20Dutch%20financial,estimated%20a%20further%20596%20MtCO2e.))
