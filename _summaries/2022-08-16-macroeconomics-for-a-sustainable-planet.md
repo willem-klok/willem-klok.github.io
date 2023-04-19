@@ -1,5 +1,6 @@
 ---
-title: "Macroeconomics for a Sustainable Planet - course summary"
+title: "Macroeconomics for a Sustainable Planet (course)"
+collection: summaries
 date: 2022-08-16
 tags: [macroeconomics,course]
 ---
