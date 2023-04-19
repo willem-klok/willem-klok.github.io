@@ -1,7 +1,7 @@
 ---
-title: "My Ph.D. - project description"
+title: "The Impact of Switching Banks"
 date: 2023-04-19
-tags: [finance,transition,PhD]
+tags: [impact]
 ---
 
 If you're someone who cares about the environment, you might already be taking steps to reduce your carbon footprint. Maybe you've switched to energy-efficient light bulbs or are more conscious of your water usage. But there's another way you can make a big impact without even changing your daily habits: switching your bank.
