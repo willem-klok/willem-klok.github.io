@@ -215,8 +215,7 @@ defaults:
       type: summaries
     values:
       layout: single
-      read_time: true
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
