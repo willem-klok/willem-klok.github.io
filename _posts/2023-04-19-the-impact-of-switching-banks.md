@@ -36,14 +36,12 @@ When a bank invests in a company, the emissions of the investment correspond to 
 
 Lets consider a green and grey[^2] bank. The green bank holds 8.23 million euros worth of investments and the grey bank 69.90 million. By dividing the emissions by these investments by their value, we can calculate the CO2-intensity of each euro invested (kg CO2eq/€).
 
-```
 | emissions type | grey bank | green bank |
 | :--- | :---: | :---: |
 | scope 1 | 0.177 | 0.015 |
 | scope 2 | 0.047 | 0.006 |
 | scope 3 | 0.781 | 0.240 |
 | total | 1.005 | 0.261 |
-```
 
 Using the *total* CO2-intensity we can see what the CO2eq change would be if we would switch from the grey to green bank, for each euro in our account[^3]: 1.005-0.261=0.744. So, if you have €1,000 on your savings, account, the arguable impact of switching banks is 744kg of CO2eq.
 
@@ -71,14 +69,10 @@ Disclaimer: please note that the calculations and reasoning presented in the fol
 
 Personal note: The financial system is impossibly complex and often it’s hard to see what the effects of certain decisions will be. For a long time, I’ve struggled with the issue of switching banks. Because while I knew that it ****had**** an impact, how this impact (together with the little effort that is required) compared to other things (buying solar panels, becoming vegetarian) remained a mystery. While this calculation isn’t perfect, it at least helps me to put things into perspective for myself and others, and hopefully encourage positive change.
 
+## Footnotes
 [^1]: See “Dutch financial sector financed emissions” ([view official report](https://www.banktrack.org/download/dutch_financial_sector_financed_emissions/221021_profundo_financed_emissions_of_the_dutch_financial_sector.pdf#:~:text=Together%20the%20selected%20Dutch%20financial,estimated%20a%20further%20596%20MtCO2e.))
-
 [^2]: For the grey bank, we take the data for ING from the report. For the green bank, we take ASR (which is an insurance company) due to the absence of any green banks in the study’s analysis.
-
 [^3]: Actually a bank does not invest €1 for each €1 it raises via deposit because it must maintain a specified percentage of its deposits as reserve for people to withdraw. This buffer is not considered in the calculation but is generally very low. This reserve ratio in the Netherlands is only 1% [view source](https://www.ceicdata.com/en/indicator/netherlands/reserve-requirement-ratio).
-
 [^4]: Examples taken from [The Climate Neutral Group](https://www.climateneutralgroup.com/en/news/what-exactly-is-1-tonne-of-co2/)
-
 [^5]: For more equivalent calculations see [CO2 Everything](https://www.co2everything.com/)
-
 [^6]: See [Data Vleesconsumptie](https://www.wur.nl/nl/dossiers/dossier/vleesconsumptie.htm#:~:text=De%20gemiddelde%20Nederlander%20eet%20zo,wordt%20als%20vlees%20en%20vleeswaren.)
