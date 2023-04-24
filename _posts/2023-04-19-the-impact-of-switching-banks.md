@@ -45,7 +45,7 @@ Lets consider a green and grey[^2] bank. The green bank holds 8.23 million euros
 
 Using the *total* CO2-intensity we can see what the CO2eq change would be if we would switch from the grey to green bank, for each euro in our account[^3]: 1.005-0.261=0.744. So, if you have €1,000 on your savings, account, the arguable impact of switching banks is 744kg of CO2eq.
 
-Let’s now put this into perspective. Imagine you have not €1,000 but €1,344 in your account. Switching banks means you reduce your indirect footprint by the convenient amount of 1 tonne CO2eq. This is similar to driving a car for half a year, 2.6 economy flights from Amsterdam to Rome, or 72 train-trips from Amsterdam to Paris. To *offset* this CO2, 50 trees would have to be growing for a year[^4].
+Let’s now put this into perspective. Imagine you have not €1,000 but €1,344 in your account. Switching banks means you reduce your indirect footprint by the convenient amount of 1 tonne (1,000 kg) CO2eq. This is similar to driving a car for half a year, 2.6 economy flights from Amsterdam to Rome, or 72 train-trips from Amsterdam to Paris. To *offset* this CO2, 50 trees would have to be growing for a year[^4].
 
 More on the behavioural side, 1 tonne of CO2 emissions is the equivalent of the CO2 produced for the consumption of roughly 6.5 kg of beef[^5], which is more then a third of the annual consumption of a typical Dutch person (15.1kg[^6]).
 
