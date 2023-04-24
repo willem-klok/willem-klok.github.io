@@ -34,11 +34,9 @@ When a bank invests in a company, the emissions of the investment correspond to 
 
 **Scope 1** emissions refer to the *direct* emissions from a company's own operations, such as the emissions from their own vehicles or their own factories. **Scope 2** emissions are the *indirect* emissions from the production of the energy used by the company, such as the emissions from generating the electricity that powers their buildings or machinery. **Scope 3** emissions are the *indirect* emissions that occur throughout a company's entire supply chain, such as the emissions from producing the materials used in their products, the emissions from transporting those products, and the emissions from the use and disposal of those products by customers.
 
-In our calculation, we consider the scope 1, 2 and 3 emissions. 
-
 Lets consider a green and grey[^2] bank. The green bank holds 8.23 million euros worth of investments and the grey bank 69.90 million. By dividing the emissions by these investments by their value, we can calculate the CO2-intensity of each euro invested (kg CO2eq/€).
 
-| emissions type | grey bank | green bank |
+| CO2-intensity (kg CO2eq/€) | grey bank | green bank |
 | :--- | :---: | :---: |
 | scope 1 | 0.177 | 0.015 |
 | scope 2 | 0.047 | 0.006 |
