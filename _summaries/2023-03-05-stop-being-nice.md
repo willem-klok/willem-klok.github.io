@@ -6,10 +6,7 @@ tags: [non-violentCommunication,book]
 type: "book summary"
 ---
 
-
-
-
-This is an English summary of the Dutch book: "Stop met Aardig Zijn" by Thomas D’ansembourg.
+This is an English summary of the Dutch book: "Stop met Aardig Zijn" by Thomas D’ansembourg. It is about recognising your feelings and underlying needs, and finding ways to communicate them in a non-violent way.
 
 We have taught ourselves that in order to be with someone, we have to be someone else, i.e. not ourselves. A central question in this book is therefor how to be yourself without losing presence of the other. How to be with someone without trying to be someone else?
 
