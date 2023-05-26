@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "The Charisma Myth - book summary"
-author: "Willem Klok"
-categories: summaries
+title: "The Charisma Myth"
+collection: summaries
+date: 2023-03-21
 tags: [mindfullness,charisma,book]
+type: "book summary"
 ---
 
 Charisma can be learned and is the result of specific non-verbal behaviours that can be turned on or off. You do not need to be an extravert to be charismatic, i.e., you can be a charismatic introvert.
