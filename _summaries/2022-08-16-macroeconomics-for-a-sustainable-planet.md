@@ -4,10 +4,9 @@ collection: summaries
 date: 2022-08-16
 tags: [macroeconomics,course]
 type: "course summary"
-exerpt: "this could be the exerpt?"
 ---
 
-This is a summary of the course 'Macroeconomics for a Sustainable Planet,' offered by the SDG Academy. The course explains many of the basics of macroeconomics. Use the links below to navigate through the course's content.
+This is a summary of the course 'Macroeconomics for a Sustainable Planet,' offered by the SDG Academy. The course explains many of the basics of macroeconomics, particularly in the context of sustainable development.
 
 1. TOC
 {:toc}
