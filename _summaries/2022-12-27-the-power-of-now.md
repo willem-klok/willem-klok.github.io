@@ -6,6 +6,8 @@ tags: [mindfulness,book]
 type: "book summary"
 ---
 
+The Power of Now by Eckhart Tolle is an accessible book about mindfulnes---about living in the now---and how it can transform your life.
+
 ## You are not your mind
 
 Buddha defines enlightenment simply as the end of suffering.
