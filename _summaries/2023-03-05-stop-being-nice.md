@@ -1,10 +1,13 @@
 ---
-layout: post
-title: "Stop Being Nice - book summary"
-author: "Willem Klok"
-categories: summaries
+title: "Stop Being Nice"
+collection: summaries
+date: 2023-03-05
 tags: [non-violentCommunication,book]
+type: "book summary"
 ---
+
+
+
 
 This is an English summary of the Dutch book: "Stop met Aardig Zijn" by Thomas D’ansembourg.
 
