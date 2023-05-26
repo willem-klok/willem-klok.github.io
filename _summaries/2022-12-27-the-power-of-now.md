@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "The Power of Now - book summary"
-author: "Willem Klok"
-categories: summaries
-tags: [mindfullness,book]
+title: "The Power of Now"
+collection: summaries
+date: 2022-12-27
+tags: [mindfulness,book]
+type: "book summary"
 ---
 
 ## You are not your mind
