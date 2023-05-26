@@ -6,6 +6,8 @@ tags: [mindfullness,charisma,book]
 type: "book summary"
 ---
 
+This book is about charisma (what it is and how you can develop it more), and inevitably also about some relevant mindfulness topics.
+
 Charisma can be learned and is the result of specific non-verbal behaviours that can be turned on or off. You do not need to be an extravert to be charismatic, i.e., you can be a charismatic introvert.
 
 Three quick tips to get an instant charisma boost in conversations:
