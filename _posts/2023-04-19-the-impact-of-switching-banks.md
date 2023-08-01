@@ -5,7 +5,7 @@ tags: [impact]
 ---
 ![the power of switching banks.png](https://raw.githubusercontent.com/willem-klok/willem-klok.github.io/gh-pages/assets/img/inverse_bubble.png)
 
-#### You can download the spreadsheet with assumptions used for the thumbnail [here](https://github.com/willem-klok/willem-klok.github.io/blob/73e70a02d52d3e7b25522878ec1a877a986afd36/files/calculation_switching_banks.xlsx).
+*You can download the spreadsheet with assumptions used for the thumbnail [here](https://github.com/willem-klok/willem-klok.github.io/blob/73e70a02d52d3e7b25522878ec1a877a986afd36/files/calculation_switching_banks.xlsx).*
 
 If you're someone who cares about the environment, you might already be taking steps to reduce your carbon footprint. Maybe you've switched to energy-efficient light bulbs or are more conscious of your water usage. But there's another way you can make a big impact without even changing your daily habits: switching your bank.
 
