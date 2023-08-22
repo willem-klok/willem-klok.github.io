@@ -22,7 +22,7 @@ So far, is has been difficult to know just how much of an impact your choice of 
 
 Before I get to number-crunching, I would like to point out that the impact of switching banks is actually two-fold, and that the real impact of this simple change is much larger than what I’m about to show.
 
-The first impact (and the one I will focus on here) is rather direct. Each dollar invested by a bank has a CO<sub>2</sub>-footprint. By comparing the CO2-footprint per dollar invested for two different banks, we can calculate the total emissions that we avoid by making the switch.
+The first impact (and the one I will focus on here) is rather direct. Each dollar invested by a bank has a CO<sub>2</sub>-footprint. By comparing the CO<sub>2</sub>-footprint per dollar invested for two different banks, we can calculate the total emissions that we avoid by making the switch.
 
 The second impact is less direct. Investments shape our society, they basically describe what we want to see in the future. Investing in green technologies paves the way for a green society, while investing in fossil-based industries means that we’re keeping things as they were for another 30+ years.
 
@@ -34,20 +34,20 @@ When a bank invests in a company, the emissions of the investment correspond to 
 
 **Scope 1** emissions refer to the *direct* emissions from a company's own operations, such as the emissions from their own vehicles or their own factories. **Scope 2** emissions are the *indirect* emissions from the production of the energy used by the company, such as the emissions from generating the electricity that powers their buildings or machinery. **Scope 3** emissions are the *indirect* emissions that occur throughout a company's entire supply chain, such as the emissions from producing the materials used in their products, the emissions from transporting those products, and the emissions from the use and disposal of those products by customers.
 
-Lets consider a green and grey[^3] bank. The green bank holds 8.23 billion euros worth of investments and the grey bank 69.90 billion. By dividing the emissions by these investments by their value, we can calculate the CO2-intensity of each euro invested (kg CO2eq/€).
+Lets consider a green and grey[^3] bank. The green bank holds 8.23 billion euros worth of investments and the grey bank 69.90 billion. By dividing the emissions by these investments by their value, we can calculate the CO<sub>2</sub>-intensity of each euro invested (kg CO<sub>2</sub>eq/€).
 
-| CO2-intensity (kg CO2eq/€) | grey bank | green bank |
+| CO<sub>2</sub>-intensity (kg CO<sub>2</sub>eq/€) | grey bank | green bank |
 | :--- | :---: | :---: |
 | scope 1 | 0.177 | 0.015 |
 | scope 2 | 0.047 | 0.006 |
 | scope 3 | 0.781 | 0.240 |
 | total | 1.005 | 0.261 |
 
-Using the *total* CO2-intensity we can see what the CO2eq change would be if we would switch from the grey to green bank, for each euro in our account[^4]: 1.005-0.261=0.744. So, if you have €1,000 on your savings, account, the arguable impact of switching banks is 744kg of CO2eq.
+Using the *total* CO<sub>2</sub>-intensity we can see what the CO<sub>2</sub>eq change would be if we would switch from the grey to green bank, for each euro in our account[^4]: 1.005-0.261=0.744. So, if you have €1,000 on your savings, account, the arguable impact of switching banks is 744kg of CO<sub>2</sub>eq.
 
-Let’s now put this into perspective. Imagine you have not €1,000 but €1,344 in your account. Switching banks means you reduce your indirect footprint by the convenient amount of 1 tonne (1,000 kg) CO2eq. This is similar to driving a car for half a year, 2.6 economy flights from Amsterdam to Rome, or 72 train-trips from Amsterdam to Paris. To *offset* this CO2, 50 trees would have to be growing for a year[^5].
+Let’s now put this into perspective. Imagine you have not €1,000 but €1,344 in your account. Switching banks means you reduce your indirect footprint by the convenient amount of 1 tonne (1,000 kg) CO<sub>2</sub>eq. This is similar to driving a car for half a year, 2.6 economy flights from Amsterdam to Rome, or 72 train-trips from Amsterdam to Paris. To *offset* this CO<sub>2</sub>, 50 trees would have to be growing for a year[^5].
 
-More on the behavioural side, 1 tonne of CO2 emissions is the equivalent of the CO2 produced for the consumption of roughly 6.5 kg of beef[^6], which is more then a third of the annual consumption of a typical Dutch person (15.1kg[^7]).
+More on the behavioural side, 1 tonne of CO<sub>2</sub> emissions is the equivalent of the CO<sub>2</sub> produced for the consumption of roughly 6.5 kg of beef[^6], which is more then a third of the annual consumption of a typical Dutch person (15.1kg[^7]).
 
 Now, for this calculation I make some assumptions, such as that the deposit remains at the bank for the duration of the investment, and that investments are instantaneously and literally replaced. Naturally, this doesn’t happen in reality, but overall it gives a viable proxy for the order of magnitude of the impact that your decision could have.
 
@@ -69,9 +69,9 @@ PERSONAL NOTE: The financial system is impossibly complex and often it’s hard 
 
 ## Footnotes
 [^1]: This is not really how it works, in fact, a bank 'creates money' when they issue a loan. For the argument I'm making in this article however, this doesn't really matter. If you would like to find out how it works exactly, you can check out ([this article from the Bank of England](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy)))
-[^2]: See “Dutch financial sector financed emissions” ([view official report](https://www.banktrack.org/download/dutch_financial_sector_financed_emissions/221021_profundo_financed_emissions_of_the_dutch_financial_sector.pdf#:~:text=Together%20the%20selected%20Dutch%20financial,estimated%20a%20further%20596%20MtCO2e.))
+[^2]: See “Dutch financial sector financed emissions” ([view official report](https://www.banktrack.org/download/dutch_financial_sector_financed_emissions/221021_profundo_financed_emissions_of_the_dutch_financial_sector.pdf#:~:text=Together%20the%20selected%20Dutch%20financial,estimated%20a%20further%20596%20MtCO<sub>2</sub>e.))
 [^3]: For the grey bank, we take the data for ING from the report. For the green bank, we take ASR (which is an insurance company) due to the absence of any green banks in the study’s analysis.
 [^4]: Actually a bank does not invest €1 for each €1 it raises via deposit because it must maintain a specified percentage of its deposits as reserve for people to withdraw. This buffer is not considered in the calculation but is generally very low. This reserve ratio in the Netherlands is only 1% [view source](https://www.ceicdata.com/en/indicator/netherlands/reserve-requirement-ratio).
-[^5]: Examples taken from [The Climate Neutral Group](https://www.climateneutralgroup.com/en/news/what-exactly-is-1-tonne-of-co2/)
-[^6]: For more equivalent calculations see [CO2 Everything](https://www.co2everything.com/)
+[^5]: Examples taken from [The Climate Neutral Group](https://www.climateneutralgroup.com/en/news/what-exactly-is-1-tonne-of-CO<sub>2</sub>/)
+[^6]: For more equivalent calculations see [CO<sub>2</sub> Everything](https://www.CO<sub>2</sub>everything.com/)
 [^7]: See [Data Vleesconsumptie](https://www.wur.nl/nl/dossiers/dossier/vleesconsumptie.htm#:~:text=De%20gemiddelde%20Nederlander%20eet%20zo,wordt%20als%20vlees%20en%20vleeswaren.)
