@@ -12,7 +12,7 @@ If you're someone who cares about the environment, you might already be taking s
 
 When you put money on your savings account, you might assume that the bank is simply holding onto your cash until you need it again. The truth however, is that your money is being put to work, invested in various projects and companies that the bank hopes will earn them a profit[^1]. And as it turns out, where you choose to save your money can have a big impact on the world around you.
 
-Some banks prioritize making as much money as possible, regardless of the impact their investments may have on the environment or society as a whole. Other banks take a more thoughtful approach, carefully choosing where to invest their funds based also on their values and moral standards.
+Some banks prioritise making as much money as possible, regardless of the impact their investments may have on the environment or society as a whole. Other banks take a more thoughtful approach, carefully choosing where to invest their funds based also on their values and moral standards.
 
 By moving your savings from one bank to another, you're essentially casting a vote for the types of investments you support. This means that by choosing a sustainable bank, you can help support industries that prioritize things like renewable energy and social justice, while avoiding those that contribute to things like climate change or inequality.
 
@@ -34,7 +34,7 @@ When a bank invests in a company, the emissions of the investment correspond to 
 
 **Scope 1** emissions refer to the *direct* emissions from a company's own operations, such as the emissions from their own vehicles or their own factories. **Scope 2** emissions are the *indirect* emissions from the production of the energy used by the company, such as the emissions from generating the electricity that powers their buildings or machinery. **Scope 3** emissions are the *indirect* emissions that occur throughout a company's entire supply chain, such as the emissions from producing the materials used in their products, the emissions from transporting those products, and the emissions from the use and disposal of those products by customers.
 
-Lets consider a green and grey[^3] bank. The green bank holds 8.23 billion euros worth of investments and the grey bank 69.90 billion. By dividing the emissions by these investments by their value, we can calculate the CO<sub>2</sub>-intensity of each euro invested (kg CO<sub>2</sub>eq/€).
+Lets consider a green and grey[^3] bank. The green bank holds 8.23 billion euros worth of investments and the grey bank 69.90 billion. By dividing the emissions of these investments by their value, we can calculate the CO<sub>2</sub>-intensity of each euro invested (kg CO<sub>2</sub>eq/€).
 
 | CO<sub>2</sub>-intensity (kg CO<sub>2</sub>eq/€) | grey bank | green bank |
 | :--- | :---: | :---: |
@@ -49,7 +49,7 @@ Let’s now put this into perspective. Imagine you have not €1,000 but €1,34
 
 More on the behavioural side, 1 tonne of CO<sub>2</sub> emissions is the equivalent of the CO<sub>2</sub> produced for the consumption of roughly 6.5 kg of beef[^6], which is more then a third of the annual consumption of a typical Dutch person (15.1kg[^7]).
 
-Now, for this calculation I make some assumptions, such as that the deposit remains at the bank for the duration of the investment, and that investments are instantaneously and literally replaced. Naturally, this doesn’t happen in reality, but overall it gives a viable proxy for the order of magnitude of the impact that your decision could have.
+Now, for this calculation I make some assumptions, such as that the deposits remains at the bank for the duration of the investment, and that investments are instantaneously and literally replaced. Naturally, this doesn’t happen in reality, but overall it gives a viable proxy for the order of magnitude of the impact that your decision could have.
 
 ### How much effort does it take?
 
