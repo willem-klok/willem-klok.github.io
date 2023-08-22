@@ -22,11 +22,9 @@ So far, is has been difficult to know just how much of an impact your choice of 
 
 Before I get to number-crunching, I would like to point out that the impact of switching banks is actually two-fold, and that the real impact of this simple change is much larger than what I’m about to show.
 
-The first impact (and the one I will focus on here) is rather direct. Each dollar invested by a bank has a CO2-footprint. By comparing the CO2-footprint per dollar invested for two different banks, we can calculate the total emissions that we avoid by making the switch.
+The first impact (and the one I will focus on here) is rather direct. Each dollar invested by a bank has a CO~2~-footprint. By comparing the CO2-footprint per dollar invested for two different banks, we can calculate the total emissions that we avoid by making the switch.
 
 The second impact is less direct. Investments shape our society, they basically describe what we want to see in the future. Investing in green technologies paves the way for a green society, while investing in fossil-based industries means that we’re keeping things as they were for another 30+ years.
-
-Consider the example of buying a car. Purchasing a regular combustion engine car creates a demand for oil, motivating the industry to invest in things like oil fields, pipelines, and refineries. But opting for an electric car sends a different message. While producing an electric car has an environmental impact, driving it doesn't require new oil reserves. Instead, it requires more efficient charging infrastructure, better ways of generating decentralized energy, and further improvements to efficiency.
 
 Naturally, this impact is impossible to quantify, but should definitely considered in addition to the calculation presented below.
 
