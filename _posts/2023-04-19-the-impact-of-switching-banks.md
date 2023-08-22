@@ -53,8 +53,6 @@ More on the behavioural side, 1 tonne of CO2 emissions is the equivalent of the 
 
 Now, for this calculation I make some assumptions, such as that the deposit remains at the bank for the duration of the investment, and that investments are instantaneously and literally replaced. Naturally, this doesn’t happen in reality, but overall it gives a viable proxy for the order of magnitude of the impact that your decision could have.
 
-Again, I’d like to stress how this CO2-calculation only tells half (and perhaps less then that) of the story. Where you choose to keep your money is a vote for the future in which you whish (your offspring) to live.
-
 ### How much effort does it take?
 
 Thanks to the wonderful initiative of the 'overstapservice' by the collective of banks in the Netherlands, switching banks remains a hassle-free process that doesn't require any effort at all (see [informatie overstapservice](https://www.overstapservice.nl/) for details).
