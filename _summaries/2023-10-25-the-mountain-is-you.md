@@ -1,9 +1,12 @@
-# The mountain is you
+---
+title: "The Mountain is You"
+collection: summaries
+date: 2023-10-25
+tags: [growth,self-sabotage,book]
+type: "book summary"
+---
 
-Added to vault: No
-Author: Brianna West
-Category: Mental health
-Media type: Book summary
+The Mountain is You is written by Brianna Wiest, and explores personal growth and inner transformation, and how our self-sabotaging mechanisms prevent us from doing so.
 
 ## The mountain is you
 
