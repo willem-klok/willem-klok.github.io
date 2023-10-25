@@ -28,7 +28,7 @@ Self-sabotage is a way—often unconscious—in which we try to protect ourselve
 5. Similar to feelings of inspiration, hope and helpfulness we **experience feelings of sadness, upset or enragement**. *Accept and learn from these feelings (see the part about emotions of this section?).*
 6. **Life is measured in outcomes, not intent**. *Find ways to quantify your intent, e.g. counting each time you made a healthy decision.*
 7. Our environment is full of **distractions**, *When your environment is clean and tidy and you have a system in place to keep it that way you’ll begin to realize that you also feel so much less stressed and much more in control of your life.*
-8. **Some** dreams are not (or no longer) ours**: *When we let go of what isn’t right for us, we create space to discover what is.*
+8. **Some dreams are not (or no longer) ours**: *When we let go of what isn’t right for us, we create space to discover what is.*
 9. When we set up **judgments** for others, they become rules that we have to play by, too. *If you learn to love others, you will learn to love yourself. Practice non-judgment through non-assumption.*
 10. We are making decisions based on how **we imagine people view our lives**. *Instead of thinking that we need to prove to everyone around us how perfect and flawless we are, we can imagine ourselves as people who are simply trying our best.*
 11. **We may feel guilty** of getting enough or more than one needs and try compensate for that guilt. *Instead of looking at your success as a status differentiator see it instead as a tool with which you can do important and positive things in the world and your own life.*
