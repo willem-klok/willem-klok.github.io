@@ -8,8 +8,6 @@ type: "book summary"
 
 The Mountain is You is written by Brianna Wiest, and explores personal growth and inner transformation, and how our self-sabotaging mechanisms prevent us from doing so.
 
-## The mountain is you
-
 Self-sabotage is often the reason why we can’t seem to get where we want to be. We’re programmed for safety, to return to the familiar. This is what keeps us from going forward. What you believe about your life is what you will make of it. If you only believe what you know, this is where you’ll stay.
 
 > Exercise: Take a piece of paper and a pen, and write down everything you aren’t happy with. Write down, very specifically, every single problem you face. If you are struggling with finances, you need a very clear picture of what’s wrong. Write down every debt, every bill, every asset, and every bit of income. If you are struggling with self-image, write down exactly what you dislike about yourself. If it is anxiety, write down everything that bothers or upsets you.
