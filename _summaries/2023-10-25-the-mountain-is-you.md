@@ -23,14 +23,14 @@ Your new life is going to cost you your old one. The people who are meant for yo
 
 Self-sabotage is a way—often unconscious—in which we try to protect ourselves. Here is a list of self-sabotaging signs and how to address them:
 
-1. ************************Resistance: w************************hen we try to change ourselves for the better, we feel resistance to commitment. *************Embrace and explore this feeling, what could be the purpose of this resistance? In what way is our sub-conscious trying to protect us?*************
-2. ********************Hitting the upper limit: w********************e are unconsciously driven to return to a known balance of happiness and unhappiness. ***************Be conscious of that desire and build a new comfort zone around a higher happiness level.***************
-3. ******Uprooting: y******ou are constantly switching strategies without ever finishing one. ****************Avoid an ill-defined goal and find out what you really want.**************** 
-4. ******************************Perfectionism****************************** holds us back from showing up and trying. ****************Don’t spend your time evaluating whether you did well, but weather you showed up. Keep track and focus on the process, not the result.****************
-5. Similar to feelings of inspiration, hope and helpfulness we **experience feelings of sadness, upset or enragement**. ***********************************************Accept and learn from these feelings (see the part about emotions of this section?).***********************************************
-6. **Life is measured in outcomes, not intent**. **************************Find ways to quantify your intent, e.g. counting each time you made a healthy decision.************************** 
+1. **Resistance**: when we try to change ourselves for the better, we feel resistance to commitment. *Embrace and explore this feeling, what could be the purpose of this resistance? In what way is our sub-conscious trying to protect us?*
+2. **Hitting the upper limit**: we are unconsciously driven to return to a known balance of happiness and unhappiness. *Be conscious of that desire and build a new comfort zone around a higher happiness level.*
+3. **Uprooting**: you are constantly switching strategies without ever finishing one. *Avoid an ill-defined goal and find out what you really want.*
+4. **Perfectionism** holds us back from showing up and trying. *Don’t spend your time evaluating whether you did well, but weather you showed up. Keep track and focus on the process, not the result.*
+5. Similar to feelings of inspiration, hope and helpfulness we **experience feelings of sadness, upset or enragement**. *Accept and learn from these feelings (see the part about emotions of this section?).*
+6. **Life is measured in outcomes, not intent**. *Find ways to quantify your intent, e.g. counting each time you made a healthy decision.*
 7. Our environment is full of **distractions**, *When your environment is clean and tidy and you have a system in place to keep it that way you’ll begin to realize that you also feel so much less stressed and much more in control of your life.*
-8. S**ome** d**reams are not (or no longer) ours**: *When we let go of what isn’t right for us, we create space to discover what is.*
+8. **Some** dreams are not (or no longer) ours**: *When we let go of what isn’t right for us, we create space to discover what is.*
 9. When we set up **judgments** for others, they become rules that we have to play by, too. *If you learn to love others, you will learn to love yourself. Practice non-judgment through non-assumption.*
 10. We are making decisions based on how **we imagine people view our lives**. *Instead of thinking that we need to prove to everyone around us how perfect and flawless we are, we can imagine ourselves as people who are simply trying our best.*
 11. **We may feel guilty** of getting enough or more than one needs and try compensate for that guilt. *Instead of looking at your success as a status differentiator see it instead as a tool with which you can do important and positive things in the world and your own life.*
@@ -93,8 +93,8 @@ The behaviours that you think are holding you back are really just meeting your 
 Examples of self-sabotaging behaviour and what it might tell us:
 
 1. **Caring too much about what other people think.** Instead of wondering whether or not someone else will think you are enough, ask yourself: Is my life enough for *me*? How do you really feel about your life when you aren’t looking at it through the eyes of others?
-2. ******************************************Down-talking yourself****************************************** comes from the idea that when you say it first, it hurts less when someone else does it. You’re your own bully and enemy by doing it to yourself.
-3. **********************************************************************You’re not doing the best you can********************************************************************** because if you get rejected then, you have no more excuses. You have to create things you are proud to share to give you a natural feeling of authenticity.
+2. **Down-talking yourself** comes from the idea that when you say it first, it hurts less when someone else does it. You’re your own bully and enemy by doing it to yourself.
+3. **You’re not doing the best you can** because if you get rejected then, you have no more excuses. You have to create things you are proud to share to give you a natural feeling of authenticity.
 
 The ‘gut feeling’ we all know can only respond to the now. Your gut instinct functions to make things better, whereas your imagination can often make things worse.
 
@@ -159,7 +159,7 @@ Anything that is new will feel uncomfortable until it is also familiar. Similarl
 
 Psychic thinking is assuming you know what somebody else is thinking or what they intend to do, and is often based on what we want to believe. Psychic thinking breeds anxiety and depression. Psychic thinking is nothing more than a series of cognitive biases:
 
-1. ************Confirmation************: our brain draws our attention to the things that are in line with our beliefs.
+1. **Confirmation**: our brain draws our attention to the things that are in line with our beliefs.
 2. **Extrapolation**: we think we are the sum of our past, and that what we are dealing with will be on our mind for the rest of our lives.
 3. **Spotlighting**: we think the world is about us, and forget that others will think about themselves in a similar way. Can you recall the last two or three embarrassing things someone else did?
 
@@ -183,7 +183,7 @@ You can’t simply ‘stop worrying,’ but you can try to think of the non-nega
 
 ## Releasing the past
 
-You can only move on if you start building something new. If you truly want to let go of a past experience, you have to allow yourself to live ********through******** it. 
+You can only move on if you start building something new. If you truly want to let go of a past experience, you have to allow yourself to live *through* it. 
 
 Close your eyes and find the feeling in your body that is uncomfortable. This is your portal to its root. Follow the feeling and ask it to show you where it started. You’ll remember a time, place, or experience. Imagine your older self telling you why this experience was absolutely necessary for becoming who you are, and who you are going to be. You can’t change the past, but you can change how you experience it, and how it shapes you, in the now.
 
@@ -281,7 +281,7 @@ When you feel yourself overreacting, you will notice that your body is starting 
 
 You will need to self-soothe in different ways: meditating, breathing, drinking enough water, getting enough sleep, using aromatherapy, sound therapy, or whatever else works for you. It’s vital you get your brain and body physically out of panic/survival mode.
 
-**********************************************************************Step 2: Reinstate a sense of safety**********************************************************************
+**Step 2: Reinstate a sense of safety**
 
 The psychological aspect of trauma healing is that you have to literally restore the connection that was severed in the exact same way that it was broken. We do not find the resolution in avoiding these things forever.
 
