@@ -21,16 +21,20 @@ Recall that a qualitative model doesn't inform us about how the exact value of a
 
 First, it allows us to incorporate hard-to-quantify or subjective variables, such as happiness, well-being, stress, job satisfaction, etc. These things can only be approximated numerically, and are therefor unsuitable for empirical model analysis. We can still use them in qualitative models though, as long as we can prove the directionality of the relationships between them. 
 
-Second, we are more free in the causal relationships too. A quantitative model requires us to know the value of a variable, *or* the exact relationship it has with another so that it can be calculated. Any unknowns need to be excluded. For a qualitative model these rules don't apply. Again, as long as we know the directionality of the relationship, we can include it in our model.
+Second, we are more free in the causal relationships themselves. A quantitative model requires us to know the value of a variable, *or* the exact relationship it has with another so that it can be calculated. Any unknowns need to be excluded. For a qualitative model these rules don't apply. Again, as long as we know the directionality of the relationship, we can include it in our model.
 
 ### Feedback loops
 The real power of qualitative maps lies in knowing the relationships between more, if not all the variables that are relevant to a system or case. Particularly, a loop of variables—called a feedback loop—give the system very interesting behavioural properties.
 
 A *positive* or *reinforcing* feedback loop occurs when the increase in a variable ultimately leads to a further increase in that variable over time. To recognise them, count the number of plusses and minuses: are there only plusses and/or is the number of minuses even (a multiple of 2), than you're dealing with a reinforcing feedback loop. In models, they are often indicated with a curved arrow in the centre of the loop, and denoted with a R- (reinforcing) or plus-sign.
 
-Conversely, when there is an uneven number of minuses in a loop, we're dealing with a *balancing* feedback loop. Here, the increase in one variable ultimately leads to a decrease in that same variable. Balancing feedback loops are also indicate with a curved arrow, but contain a B- (balancing) or minus-sign within.
+Conversely, when there is an uneven number of minuses in a loop, we're dealing with a *balancing* feedback loop. Here, the increase in one variable ultimately leads to a decrease in that same variable. Balancing feedback loops are also indicated with a curved arrow, but contain a B- (balancing) or minus-sign within.
 
 An example of both types of loops is shown below, with a reinforcing loop on the right, and a balancing loop on the left.
+
+When the global average temperature goes up, the permafrost melts, and less solar radiation is reflected back into the admosphere. Consequetly, as the earth absorbs this light instead, the global average temperature further increases.
+
+However, as the average global temperature goes up, citicens become (hopefully) increasingly concerned and (hopefully) take and demand global climate action. This in turn slows down the rise in global average temperature.
 
 ![feedback_loops_climate_change 1.png](https://raw.githubusercontent.com/willem-klok/willem-klok.github.io/master/images/feedback_loops_climate_change.png)
 
