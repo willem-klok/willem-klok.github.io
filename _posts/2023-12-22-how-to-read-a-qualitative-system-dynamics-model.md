@@ -6,7 +6,7 @@ Qualitative in the context of models refers not to the quality of the model, but
 
 Both quantitative and qualitative models are built from variables and the causal relationships between them, which show how these variables change over time. A causal relationship (indicated by an arrow) depicts how a change in one variable leads to the change in another. For example, and as illustrated below, the more force is applied to an object, the faster it will move.
 
-![[variables_and_causal_relationships 1.png]]
+![variables_and_causal_relationships 1.png](https://raw.githubusercontent.com/willem-klok/willem-klok.github.io/master/images/variables_and_causal_relationships.png)
 
 Where a quantitative model will tell you the exact numerical relationship between the two variables, a qualitative model does not. A qualitative model only tells us something about the *direction* of the causal relationship, which can be positive or negative.
 
@@ -32,7 +32,7 @@ Conversely, when there is an uneven number of minuses in a loop, we're dealing w
 
 An example of both types of loops is shown below, with a reinforcing loop on the right, and a balancing loop on the left.
 
-![[feedback_loops_climate_change 1.png]]
+![feedback_loops_climate_change 1.png](https://raw.githubusercontent.com/willem-klok/willem-klok.github.io/master/images/feedback_loops_climate_change.png)
 
 The example shows us something fundamentally important for system models. Namely that balancing loops make the system *resistant to change* whereas reinforcing loops make the system *sensitive to change* due to its amplifying nature.
 
