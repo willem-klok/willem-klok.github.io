@@ -12,7 +12,7 @@ Where a quantitative model will tell you the exact numerical relationship betwee
 
 A *positive causal relationship* is indicated with a plus-sign (+), and simply means that when the value of the cause (variable at the start arrow) goes up, so does the value of the effect (variable at the end of the arrow). Conversely, if the value of the cause goes down (the force in our previous example), the effect (speed) does too.
 
-A negative causal relationship, indicated with a minus-sign (-), indicates that the direction is reversed. When the value of the cause goes up, the value of the effect goes down. But also; when the value of the cause goes down, the value of the effect goes up.
+A *negative causal relationship*, indicated with a minus-sign (-), indicates that the direction is reversed. When the value of the cause goes up, the value of the effect goes down. But also; when the value of the cause goes down, the value of the effect goes up.
 
 It takes some time getting used to interpreting this notation. Many people associate the plus-sign with increasing values, and the minus-sign with decreasing ones, but this isn't the case! The signs only says something about the *relationship* between the variable values, it tells us nothing about the values themselves. 
 
