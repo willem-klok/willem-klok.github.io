@@ -1,5 +1,3 @@
-# A meticulous but practical way to finding your values and goals
-
 In today's whirlwind of a world that’s constantly pushing us toward conformity, it's easy to lose sight of the the things that define us. A constant and seemingly endless influx of ‘things to do,’ can leave us aimless and unsatisfied. Instead of pursuing the things that truly matter to us we end up wanting to do everything, which often means we end up doing nothing at all.
 
 ![post-its-whirlwind.png](https://raw.githubusercontent.com/willem-klok/willem-klok.github.io/master/images/post-its-whirlwind.png)
