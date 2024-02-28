@@ -1,8 +1,8 @@
 # A meticulous but practical way to finding your values and goals
 
-![post-its-whirlwind.png](https://raw.githubusercontent.com/willem-klok/willem-klok.github.io/master/images/post-its-whirlwind.png)
-
 In today's whirlwind of a world that’s constantly pushing us toward conformity, it's easy to lose sight of the the things that define us. A constant and seemingly endless influx of ‘things to do,’ can leave us aimless and unsatisfied. Instead of pursuing the things that truly matter to us we end up wanting to do everything, which often means we end up doing nothing at all.
+
+![post-its-whirlwind.png](https://raw.githubusercontent.com/willem-klok/willem-klok.github.io/master/images/post-its-whirlwind.png)
 
 I speak from experience when I say that this aimless feeling can be paralysing. Saying “yes” to one think means saying “no” to nine others, and when we’re not sure about either ten options, we start doubting our decision before we’ve even started.
 
@@ -22,7 +22,7 @@ Lastly; the method appeals to my own way of working, which is highly organised a
 
 In any case; I recommend reading through the whole exercise first, so you can decide for yourself what works best for you practically.
 
-### Preparation
+## Preparation
 
 To get started, you will need (at least) 5 large sheets of paper and something to write with. I found it useful to have a stack of post-its with me, as it made it easier to move around things at a later stage. If you really want to do it digitally, I recommend using a ‘whiteboard’-style software like [MiroBoard](https://miro.com/).
 
@@ -36,11 +36,11 @@ Atop of each paper separately write down:
 
 such that you have one sheet for each.
 
-### First phase
+## First phase
 
 In the first phase of the exercise, you are going to fill each sheet of paper with as many of the corresponding elements as you can. If you have post-its; this is where they’d come in handy.
 
-#### Values
+### Values
 
 Come up with all the values that resonate with you. A value is a deeply held belief that guides your decisions and actions and reflects what is most important to you. For now, don’t worry too much about the number of values you come up with, just keep going until you really believe you’ve got them all.
 
@@ -58,7 +58,7 @@ Some helpful questions to ask yourself:
 
 **TIP**: as you will see later, it is useful to cluster your values around similar themes.
 
-#### Aspirations
+### Aspirations
 
 Next, we are going to define our aspirations. To do so, it is important to realise that, for this exercise, an aspiration is *not* the same as a goal: a goal is something that you can, at some point, say you’ve achieved, such as completing a language course, writing a story, running a marathon… etc. An aspiration is something that is by definition unachievable, you can only ‘aspire to it.’ It involves things like being independent, living self-sufficiently, being immaterial, or being fit.
 
@@ -70,7 +70,7 @@ Here too, write down as many as you can come up with! Some questions that might 
 
 **TIP**: because goals and aspirations appear very similar, it might be helpful to combine this exercise with the next. After something comes up in your mind, ask yourself; “is this an aspiration or a goal?”
 
-#### Goals
+### Goals
 
 As you might have noticed, we are getting more and more specific. As explained above, goals are measurable achievements that you can, indeed, ‘achieve.’
 
@@ -81,7 +81,7 @@ Here you can ask yourself:
 3. What specific project or task that you have wanted to achieve have you been putting off?
 4. What goals you are currently working on?
 
-#### Principles
+### Principles
 
 Principles are fundamental beliefs or rules that guide behaviour and decision-making. Try to write down as many principles as you (would want to) live by.
 
@@ -89,7 +89,7 @@ Principles are fundamental beliefs or rules that guide behaviour and decision-ma
 2. Reflecting on your life's most significant decisions, what underlying beliefs guided those choices?
 3. What are ‘standards’ that you set for your relationships?
 
-#### Habits
+### Habits
 
 What are the things you feel like you should be doing on a consistent basis? Working out? Journaling? Or calling at least one far-away friend each month? Write down as many as you can think of! While the frequency doesn’t matter (daily, weekly, annually, or continuously), you might find it useful later to write this down too.
 
@@ -101,7 +101,7 @@ You should now have a table full values, principles, habits, goals and aspiratio
 
 Before going to the next phase however, I want to briefly explain some theory behind it.
 
-### Intermezzo: the theory behind the second phase
+## Intermezzo: the theory behind the second phase
 
 As I mentioned in the introduction, us humans are intricate, complex and internally interconnected. While the exercises before have challenged you to extract some ‘end-points’ of your persona, we are now going to exploit this interconnected aspect to fill in the blanks.
 
@@ -120,28 +120,28 @@ A **false belief** appears when an element (often at the bottom of the hierarchy
 
 Conversely, we might do things or uphold beliefs that brings us a strong sense of fulfilment and authenticity, but which cannot be placed under our aspirations or corresponding values. While these **blind-spots** can have various causes (lack of self-reflection, the absence of a word that describes it), uncovering them can open up new chapters in your life-book. How wonderful it is to discover that your gardening habit is more than a hobby, and deeply connects to your core values of sustainability, nurturing, and growth!
 
-### Second phase
+## Second phase
 
 The second phase likely constitutes a number of iterations through which we will align The elements we have previously defined in 3 steps: simplify, connect and evaluate. For practical reasons, we will execute these steps from the top of the hierarchy (values) to the bottom (principles, habits and goals). For each, I provide a personal example, which is summarised visually below.
 
 > You’re probably going to go through the steps in random order. That’s completely fine! I just describe them here as separate steps for the sake of explanation.
 > 
 
-#### Simplify
+### Simplify
 
 Look at all the elements you have defined and group them thematically. Is it possible to connect these elements in a way in which you can find one overarching, or core element?
 
 > I started with 26 values, that in some way all contributed to (what I ended up calling) Eudaimonia[footnote: Encompasses living in accordance with virtue and realising one's full potential, leading to a deeply fulfilling and meaningful life]. Additionally, I identified 5 ‘clusters’ of values, and for each I identified the most central one. For ‘wisdom,’ ‘growth,’ ‘curiosity,’ ‘learning,’ and ‘understanding,’ I identified ‘growth’ as centre value. This is what I used to connect my aspirations with.
 > 
 
-#### Connect
+### Connect
 
 Connect your simplified collection of elements to **one or more** elements of the layer above.
 
 > After thematically grouping and aggregating/disaggregating some of my aspirations. I found five that particularly connected with the cluster of values around growth: ‘expanding my expressive skills,’ ‘better understand reality,’ ‘expand my physical limits,’ ‘better understand human psychology,’ and ‘be compassionate.‘
 > 
 
-#### Evaluate
+### Evaluate
 
 Is there any element that could not be connected? Carefully assess whether:
 
@@ -157,7 +157,7 @@ There is no absolute perfect structure. The only requirement is that it makes se
 
 ![personal_constitution_part_WK.jpg](https://raw.githubusercontent.com/willem-klok/willem-klok.github.io/master/images/personal_constitution_part_WK.jpg)
 
-This concludes the core part of the exercise, and after doing it you probably feel exhausted—we’ve taken quite the inner journey. Nevertheless, I’d urge you to make sure you record the foundation of your inner philosophy because, as the next step will show, it can become a helpful life-partner.
+This concludes the core part of the exercise, and after doing it you probably feel exhausted—we’ve taken quite the inner journey. Nevertheless, I’d urge you to make sure you record the foundation of your inner philosophy because, as the next session will show, it can become a powerful guide for a fulfilling life.
 
 ### Using the foundation of your inner philosophy
 
